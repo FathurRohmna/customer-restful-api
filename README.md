@@ -70,7 +70,7 @@ customer-restful-api/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/customer-restful-api.git
+   git clone https://github.com/FathurRohmna/customer-restful-api.git
    cd customer-restful-api
    ```
 
